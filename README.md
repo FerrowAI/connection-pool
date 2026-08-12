@@ -1,4 +1,8 @@
 # Connection Pool
+
+```sh
+npm install @ferrow/connection-pool
+```
 ![CI](https://github.com/FerrowAI/connection-pool/actions/workflows/ci.yml/badge.svg)
 
 Reuse database/socket connections. Prevent resource exhaustion.

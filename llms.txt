@@ -1,4 +1,6 @@
 # connection-pool
+
+Install: npm install @ferrow/connection-pool
 > Reuse database/socket connections. Prevent resource exhaustion.
 
 Reuse database/socket connections. Prevent resource exhaustion.
