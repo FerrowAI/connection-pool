@@ -1,1 +1,1 @@
-{"name":"connection-pool","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{"name":"connection-pool","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["connection-pool","resource-pooling","database","typescript","concurrency"],"license":"MIT"}
