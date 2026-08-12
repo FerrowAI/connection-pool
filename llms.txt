@@ -1,0 +1,11 @@
+# connection-pool
+
+Reuse database/socket connections. Prevent resource exhaustion. ```javascript const pool = new ConnectionPool({ maxConnections: 10 }, factory);
+
+## API
+- `ConnectionPool`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai
